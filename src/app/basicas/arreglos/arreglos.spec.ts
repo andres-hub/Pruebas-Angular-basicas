@@ -1,7 +1,6 @@
 import { obtenerRobots } from './arreglos';
 
-
-describe('Pruebas de arreglos',()=>{
+xdescribe('Pruebas de arreglos',()=>{
 
     it('Debe retornar almenos tres robots',()=>{
 
